@@ -1,5 +1,5 @@
 <p align="left"><samp>
-~ $ cat ./about-me
+~ $ cat about-me
 </samp></p>
 
 <p align="center"><samp>
