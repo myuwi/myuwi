@@ -4,8 +4,7 @@
 
 <p align="center"><samp>
 Hey there,<br>
-I'm Myuwi, a Finnish university student who likes using the Penguin operating system.<br>
-I also seem to like programming.
+I'm Myuwi, a Finnish university student who likes using the Penguin operating system.
 </samp></p>
 
 <br>
